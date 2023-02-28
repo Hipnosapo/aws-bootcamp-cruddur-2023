@@ -69,12 +69,11 @@ Configure connection:
 
 Created files in /aws/json/ to automatize aws cli installation
 
-
 added variables to gitpod account
-AWS_ACCESS_KEY_ID="xxxxxx"
-AWS_SECRET_ACCESS_KEY="xxxxxx"
-AWS_DEFAULT_REGION="xxxxxx"
-AWS_ACCOUNT_ID="xxxxxx"
+    AWS_ACCESS_KEY_ID="xxxxxx"
+    AWS_SECRET_ACCESS_KEY="xxxxxx"
+    AWS_DEFAULT_REGION="xxxxxx"
+    AWS_ACCOUNT_ID="xxxxxx"
 
 Created by aws cli from gitpod connection:
 
