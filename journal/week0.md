@@ -49,6 +49,7 @@ sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
 
 sudo zypper ar https://packages.microsoft.com/yumrepos/vscode vscode
 
+sudo in code
 
 Vscode installed, problem connecting to gitpod instance by authentication. Looks there are some problems with kwallet in KDE so I install gnome-keyring, but still no connection.
 For the moment we continue with the browser, we will solve it.Ok, you have to hit continue and enter the ssh key. I'm an idiot, gnome-keyring unninstalled.
